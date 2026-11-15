@@ -1,6 +1,6 @@
 # Bài tập CTDL&GT – 211131
-- Họ tên: Nguyễn Tiến Đức
-- MSV: 12425016
+- Họ tên: Nguyễn Hoài Anh
+- MSV: 10125012
 - Lớp: 124251
 
 | Buổi | Nội dung | Thư mục | Trạng thái |
